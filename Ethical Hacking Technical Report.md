@@ -1,7 +1,9 @@
 # Ethical Hacking Technical Report
 
-**Client:**Atomic Roastery &nbsp;
-**Date:** May 7, 2024 &nbsp;
+**Client:** Atomic Roastery 
+
+**Date:** May 7, 2024
+
 **Prepared by:** Hazel Anne Sanorjo
 
 ## Executive Summary:
