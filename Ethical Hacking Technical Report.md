@@ -93,4 +93,4 @@ This report presents the technical findings of the ethical hacking assessment co
 ## Conclusion:
 The findings of the ethical hacking assessment highlight several critical vulnerabilities and security weaknesses within Atomic Roastery's infrastructure and applications. By implementing the recommended remediation measures, Atomic Roastery can significantly enhance its security posture and mitigate the risk of cyber threats and data breaches.
 
-**Signature:** [Hazel Anne C.Sanorjo] 
+**Signature:** Hazel Anne C.Sanorjo
